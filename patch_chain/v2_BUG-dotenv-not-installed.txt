@@ -1,0 +1,2 @@
+ModuleNotFoundError: No module named 'dotenv' -- pip install python-dotenv needed, or
+remove load_dotenv() and set the env var manually
