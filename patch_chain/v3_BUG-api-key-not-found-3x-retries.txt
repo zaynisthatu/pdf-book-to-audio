@@ -1,0 +1,3 @@
+ValueError: Missing key inputs argument! -- GEMINI_API_KEY env var not being read.
+Took 3 rounds of troubleshooting (temporary `set` vs permanent Windows env var vs
+CMD-vs-PowerShell confusion) before `echo %GEMINI_API_KEY%` finally printed correctly.
