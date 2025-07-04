@@ -1,0 +1,1 @@
+Book-to-audiobook automation (4 Jul 2025): a pipeline that extracts each lesson from a book PDF, processes it with an LLM in two stages (simplify the lesson, then convert it into a spoken script), turns the script into audio with text-to-speech, and repeats for all 45 lectures. The steps are orchestrated with .bat files and build on the Gemini TTS script from 30 Jun 2025.
