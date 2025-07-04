@@ -1,0 +1,3 @@
+AttributeError: 'Client' object has no attribute 'synthesize_speech'
+-- invented/hallucinated method name; correct call is client.models.generate_content()
+with response_modalities=["AUDIO"], same pattern as the 30 Jun 2025 TTS script.
