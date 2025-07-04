@@ -1,0 +1,3 @@
+'q.bat' is not recognized... 'pro_tts.bat' is not recognized...
+Root cause: relative path/working-directory mismatch when subprocess.run() called the
+.bat files -- fixed by using full paths or calling python scripts directly instead of .bat
