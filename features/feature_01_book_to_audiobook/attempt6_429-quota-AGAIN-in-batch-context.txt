@@ -1,0 +1,2 @@
+Same 429 RESOURCE_EXHAUSTED recurring once running across all 45 lectures in a loop --
+batch/loop usage hits the free-tier rate limit far faster than single-call testing did.
