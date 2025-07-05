@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+output/
+*.wav
+*.mp3
+*.tmp
+.env
+*.pdf
+!examples/sample_book.pdf
