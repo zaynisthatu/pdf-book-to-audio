@@ -1,4 +1,0 @@
-User assumed passing a local file PATH string directly as the prompt content would let
-the AI "read" the file -- WRONG assumption. Gemini API requires either (a) extracting
-text yourself first (PyPDF2/python-docx/pytesseract-OCR), or (b) uploading the file via
-client.files.upload() and passing the returned file object.

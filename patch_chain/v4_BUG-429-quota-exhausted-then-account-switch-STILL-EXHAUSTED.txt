@@ -1,4 +1,0 @@
-429 RESOURCE_EXHAUSTED on gemini-2.5-pro-tts free tier.
-User switched to a NEW account with 0 usage -- error PERSISTED (same 429), suggesting
-either a very low shared free-tier ceiling for TTS specifically, or an IP/project-level
-throttle rather than a per-account one.

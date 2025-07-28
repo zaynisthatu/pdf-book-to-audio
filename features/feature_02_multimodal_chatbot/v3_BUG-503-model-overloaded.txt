@@ -1,2 +1,0 @@
-503 UNAVAILABLE: "The model is overloaded" -- transient server-side issue, not a user
-bug -- fix suggested: retry with exponential backoff.

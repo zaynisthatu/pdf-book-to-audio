@@ -1,3 +1,0 @@
-Extraction regex searched for "Lecture N" pattern -- ALL 45 lookups failed
-("Lecture 1 not found" ... "Lecture 9..."). Root cause: the actual PDF used "Lesson N"
-not "Lecture N" -- a simple keyword mismatch, not a library bug.
