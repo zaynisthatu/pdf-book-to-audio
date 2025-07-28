@@ -1,0 +1,5 @@
+You are given one lesson (lesson {lesson}) from a textbook.
+Explain it in {language}, in detail and in simple words, the way a good teacher explains in class.
+Give everyday examples for each concept. Keep the technical terms, but explain them.
+Do not summarize: expand, and add related background where it helps.
+Cover only this lesson. No introduction and no closing remarks, only the lesson material.
